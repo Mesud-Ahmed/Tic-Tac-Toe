@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+This is a simple implementation of the classic Tic Tac Toe game. It allows the player and the computer to play the game in turns on a 3x3 grid UI. The game checks for wins, losses, or draws and displays the result accordingly.
